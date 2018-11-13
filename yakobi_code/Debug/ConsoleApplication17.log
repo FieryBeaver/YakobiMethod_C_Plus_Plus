@@ -1,0 +1,5 @@
+﻿  ConsoleApplication17.cpp
+c:\users\bober\source\repos\consoleapplication17\consoleapplication17\consoleapplication17.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\bober\source\repos\consoleapplication17\consoleapplication17\consoleapplication17.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\bober\source\repos\consoleapplication17\consoleapplication17\consoleapplication17.cpp(63): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication17.vcxproj -> C:\Users\BOBER\source\repos\ConsoleApplication17\Debug\ConsoleApplication17.exe
